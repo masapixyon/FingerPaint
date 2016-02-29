@@ -5,16 +5,16 @@ Androidアプリケーションで、大学の学祭に出展した作品です�
 
 カテゴリ : ゲーム
 
-*ゲーム内容 : 偉人にお絵かき
-*apkの互換性 : android OS 5.0.1, 4.2.2で動作確認済み
-*開発環境 : Eclipce + SDK
-*SDKバージョン : android OS 5.1.1(APILV 23）
+* ゲーム内容 : 偉人にお絵かき
+* apkの互換性 : android OS 5.0.1, 4.2.2で動作確認済み
+* 開発環境 : Eclipce + SDK
+* SDKバージョン : android OS 5.1.1(APILV 23）
 
 
 ##Demo
 スクリーンショットは[wiki](https://github.com/masapixyon/FingerPaint/wiki "Wiki")を参照してください。
 
-<img src="https://github.com/masapixyon/FingerPaint/images/FP-Screenshot-1.png" width="300px">
+<img src="https://github.com/masapixyon/FingerPaint/blob/master/images/FP-Screenshot-1.png" width="300px">
 
 
 

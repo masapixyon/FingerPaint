@@ -1,0 +1,18 @@
+<resources>
+
+ 
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+    </style>
+    
+    <style name="AppThemeBlack" parent="@style/AppTheme">
+        <item name="android:windowBackground">@drawable/black</item>
+    </style>
+    <style name="DashboardItemStyle" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:background">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    
+</resources>
